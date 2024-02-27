@@ -37,7 +37,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["👑 I am Ragnarok ","I'M THE SHIELD🛡️"," ONLY LISTEN✨","TO L0Oki ⚔️","Always & Forever🗡️"];
+const statusMessages = ["👑ONLY LISTEN✨ ","TO L0Oki ⚔️🛡"," ONLY LISTEN✨","TO L0Oki ⚔️","Always & Forever🗡️"];
 
 
 let currentIndex = 0;
